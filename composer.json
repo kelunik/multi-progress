@@ -1,0 +1,17 @@
+{
+    "name": "kelunik/multi-progress",
+    "description": "Display progress of multiple tasks in your CLI app.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Niklas Keller",
+            "email": "me@kelunik.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kelunik\\MultiProgress\\": "lib/"
+        }
+    }
+}
